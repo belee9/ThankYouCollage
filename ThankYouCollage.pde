@@ -1,3 +1,4 @@
+/* @pjs preload="flag.png"; */
 PImage img;
 int X=80;
 int Y=80;
